@@ -2,7 +2,7 @@ name: test and build the code
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   tests:
